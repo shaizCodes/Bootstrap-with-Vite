@@ -1,0 +1,24 @@
+{
+  "name": "bootstrap-with-vite",
+  "version": "1.0.0",
+  "description": "Bootstrap v5.3.7 bundled with Vite",
+  "keywords": [
+    "Bootstrap",
+    "Vite"
+  ],
+  "homepage": "https://github.com/shaizCodes/Bootstrap-with-Vite#readme",
+  "bugs": {
+    "url": "https://github.com/shaizCodes/Bootstrap-with-Vite/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shaizCodes/Bootstrap-with-Vite.git"
+  },
+  "license": "MIT",
+  "author": "Shahzad",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
