@@ -1,7 +1,7 @@
 {
   "name": "bootstrap-with-vite",
   "version": "1.0.0",
-  "description": "Bootstrap v5.3.7 bundled with Vite",
+  "description": "Bootstrap v5.3.8 bundled with Vite",
   "keywords": [
     "Bootstrap",
     "Vite"
@@ -17,9 +17,8 @@
   "license": "MIT",
   "author": "Shahzad",
   "type": "module",
-  "main": "index.js",
   "scripts": {
-    "start": "vite",
+    "dev": "vite",
     "build": "vite build",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
