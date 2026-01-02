@@ -3,27 +3,35 @@
 This project is a basic template for using Bootstrap 5.3.8 bundled with Vite. It serves as an entry point for Bootstrap projects, providing a simple setup to get started quickly.
 
 ## Features
+
 - Bootstrap 5.3.8 for responsive design and components.
+- Bootstrap Icons 1.13.1 for icon support.
 - Vite for fast development and build processes.
 - SCSS support for styling.
 
 ## Getting Started
 
 ### Prerequisites
+
 - Node.js (version 12 or higher)
 
 ### Installation
+
 1. Clone the repository:
+
    ```bash
    git clone https://github.com/shaizCodes/Bootstrap-with-Vite.git
    cd Bootstrap-with-Vite
+
    ```
 2. Install the dependencies:
+
    ```bash
    npm install
    ```
 
 ### Development
+
 To start the development server, run:
 ```bash
 npm run dev
@@ -45,4 +53,5 @@ Shahzad
 
 ## Acknowledgments
 - [Bootstrap](https://getbootstrap.com)
+- [Bootstrap Icons](https://icons.getbootstrap.com)
 - [Vite](https://vitejs.dev)
