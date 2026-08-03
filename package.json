@@ -4,6 +4,7 @@
   "description": "Bootstrap v5.3.8 bundled with Vite",
   "keywords": [
     "Bootstrap",
+    "Bootstrap Icons",
     "Vite"
   ],
   "homepage": "https://github.com/shaizCodes/Bootstrap-with-Vite#readme",
@@ -30,5 +31,9 @@
     "@popperjs/core": "^2.11.8",
     "bootstrap": "^5.3.8",
     "bootstrap-icons": "^1.13.1"
+  },
+  "allowScripts": {
+    "@parcel/watcher@2.5.1": true,
+    "esbuild@0.28.1": true
   }
 }
